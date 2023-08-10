@@ -37,12 +37,12 @@ body {
 	margin: 0;
 	font-size: min(2rem, 3vh);
 	flex-direction: column;
-	/* background-color: hsl(27, 79%, 83%); */
-	background-color: hsl(219, 85%, 72%);
+	background-color: hsl(27, 79%, 83%);
 	font-family: "Nunito", sans-serif;
 }
 
 body.over {
+	background-color: hsl(219, 85%, 72%);
 }
 
 .swaying {
