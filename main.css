@@ -68,10 +68,10 @@ body.over {
 	--accent-color: hsl(23, 100%, 71%);
 	--delay: 1s;
 	animation: 5s var(--delay) pulseDown infinite;
-	--accent-color: hsl(214, 88%, 77%);
 }
 
 .key.over {
+	--accent-color: hsl(214, 88%, 77%);
 	--delay: 1s;
 	animation: 5s var(--delay) pulseDown infinite;
 }
